@@ -1,3 +1,8 @@
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
@@ -13,3 +18,19 @@ public:
         return j + 1; 
     }
 };
+
+int main() {
+    Solution sol;
+    vector<int> nums = {1, 1, 2, 2, 3, 4, 4, 5};
+    
+    int newLength = sol.removeDuplicates(nums);
+    
+    cout << "New length: " << newLength << endl;
+    cout << "Updated array: ";
+    for (int i = 0; i < newLength; i++) {
+        cout << nums[i] << " ";
+    }
+    cout << endl;
+
+    return 0;
+}
