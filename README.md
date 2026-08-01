@@ -26,4 +26,16 @@ The goal of this repo is to **track progress, practice coding, and build problem
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/0225-implement-stack-using-queues) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
