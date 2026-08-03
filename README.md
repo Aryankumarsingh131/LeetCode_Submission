@@ -54,4 +54,8 @@ The goal of this repo is to **track progress, practice coding, and build problem
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/0877-stone-game) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
