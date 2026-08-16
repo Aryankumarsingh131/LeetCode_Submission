@@ -45,6 +45,7 @@ The goal of this repo is to **track progress, practice coding, and build problem
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/0029-divide-two-integers) |
 | [0877-stone-game](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
@@ -58,4 +59,8 @@ The goal of this repo is to **track progress, practice coding, and build problem
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/0182-duplicate-emails) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
