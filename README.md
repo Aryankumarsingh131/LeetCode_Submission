@@ -30,6 +30,7 @@ The goal of this repo is to **track progress, practice coding, and build problem
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/0141-linked-list-cycle) |
+| [1386-cinema-seat-allocation](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Linked List
 |  |
@@ -43,6 +44,7 @@ The goal of this repo is to **track progress, practice coding, and build problem
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/0877-stone-game) |
+| [1386-cinema-seat-allocation](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Math
 |  |
@@ -65,4 +67,9 @@ The goal of this repo is to **track progress, practice coding, and build problem
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/0029-divide-two-integers) |
+| [1386-cinema-seat-allocation](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/1386-cinema-seat-allocation) |
+## Greedy
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
