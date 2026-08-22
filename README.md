@@ -54,6 +54,7 @@ The goal of this repo is to **track progress, practice coding, and build problem
 | [0029-divide-two-integers](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/0029-divide-two-integers) |
 | [0877-stone-game](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/0877-stone-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |
