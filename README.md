@@ -32,6 +32,7 @@ The goal of this repo is to **track progress, practice coding, and build problem
 | [0141-linked-list-cycle](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/0141-linked-list-cycle) |
 | [1386-cinema-seat-allocation](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
 | ------- |
@@ -49,6 +50,7 @@ The goal of this repo is to **track progress, practice coding, and build problem
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
