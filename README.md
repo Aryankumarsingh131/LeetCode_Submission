@@ -33,6 +33,7 @@ The goal of this repo is to **track progress, practice coding, and build problem
 | [1386-cinema-seat-allocation](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Linked List
 |  |
 | ------- |
@@ -86,6 +87,7 @@ The goal of this repo is to **track progress, practice coding, and build problem
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/1927-sum-game) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Simulation
 |  |
 | ------- |
@@ -106,6 +108,7 @@ The goal of this repo is to **track progress, practice coding, and build problem
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/1927-sum-game) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Minimax
 |  |
 | ------- |
@@ -118,4 +121,12 @@ The goal of this repo is to **track progress, practice coding, and build problem
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/1872-stone-game-viii) |
+## Counting
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
