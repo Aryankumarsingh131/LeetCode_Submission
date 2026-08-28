@@ -42,6 +42,7 @@ The goal of this repo is to **track progress, practice coding, and build problem
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/0141-linked-list-cycle) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Array
 |  |
 | ------- |
@@ -109,6 +110,7 @@ The goal of this repo is to **track progress, practice coding, and build problem
 | ------- |
 | [1927-sum-game](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/1927-sum-game) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Minimax
 |  |
 | ------- |
@@ -129,4 +131,5 @@ The goal of this repo is to **track progress, practice coding, and build problem
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
