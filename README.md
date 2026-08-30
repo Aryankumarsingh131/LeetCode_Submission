@@ -49,6 +49,7 @@ The goal of this repo is to **track progress, practice coding, and build problem
 | [0877-stone-game](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/0877-stone-game) |
 | [1386-cinema-seat-allocation](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/1872-stone-game-viii) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -89,6 +90,7 @@ The goal of this repo is to **track progress, practice coding, and build problem
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Simulation
 |  |
