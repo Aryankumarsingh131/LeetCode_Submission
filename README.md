@@ -38,6 +38,7 @@ The goal of this repo is to **track progress, practice coding, and build problem
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/0141-linked-list-cycle) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Two Pointers
 |  |
 | ------- |
