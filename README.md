@@ -32,6 +32,7 @@ The goal of this repo is to **track progress, practice coding, and build problem
 | [0141-linked-list-cycle](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/0141-linked-list-cycle) |
 | [1386-cinema-seat-allocation](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Linked List
@@ -55,6 +56,7 @@ The goal of this repo is to **track progress, practice coding, and build problem
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
@@ -86,6 +88,7 @@ The goal of this repo is to **track progress, practice coding, and build problem
 | [0029-divide-two-integers](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/0029-divide-two-integers) |
 | [1386-cinema-seat-allocation](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Greedy
 |  |
 | ------- |
@@ -144,4 +147,12 @@ The goal of this repo is to **track progress, practice coding, and build problem
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
