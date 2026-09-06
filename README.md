@@ -75,6 +75,7 @@ The goal of this repo is to **track progress, practice coding, and build problem
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/0115-distinct-subsequences) |
 | [0877-stone-game](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/0877-stone-game) |
 | [1872-stone-game-viii](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/1872-stone-game-viii) |
 ## Game Theory
@@ -120,6 +121,7 @@ The goal of this repo is to **track progress, practice coding, and build problem
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/1927-sum-game) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
