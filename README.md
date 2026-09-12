@@ -56,6 +56,7 @@ The goal of this repo is to **track progress, practice coding, and build problem
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -81,6 +82,7 @@ The goal of this repo is to **track progress, practice coding, and build problem
 | [0115-distinct-subsequences](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/0115-distinct-subsequences) |
 | [0877-stone-game](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/0877-stone-game) |
 | [1872-stone-game-viii](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/1872-stone-game-viii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Game Theory
 |  |
 | ------- |
@@ -113,6 +115,7 @@ The goal of this repo is to **track progress, practice coding, and build problem
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Combinatorics
 |  |
 | ------- |
@@ -159,6 +162,7 @@ The goal of this repo is to **track progress, practice coding, and build problem
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aryankumarsingh131/LeetCode_Submission/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Breadth-First Search
 |  |
 | ------- |
